@@ -3,7 +3,7 @@
 
 This program uses C++ and Arduino to implement a device that can measure Temperature , SpO2 and Heart-Rate.
 
-** Runned and Tested in Wokwi.com **
+                                ** Runned and Tested in Wokwi.com **
 
 ## Overview
 
