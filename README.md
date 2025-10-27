@@ -1,5 +1,5 @@
 
-# Embedded Biomedical Monitoring System for Temperature, SpO2 and Heart-Rate
+# Embedded Biomedical Monitoring System for Temperature, SpO2 and Heart Rate
 
 This program uses C++ and Arduino to implement a device that can measure Temperature , SpO2 and Heart-Rate.
 
