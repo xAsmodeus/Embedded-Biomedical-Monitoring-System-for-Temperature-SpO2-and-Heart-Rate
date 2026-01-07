@@ -5,6 +5,8 @@ This program uses C++ and Arduino to implement a device that can measure Tempera
 
                                                 ** Runned and Tested in Wokwi.com **
 
+--- 
+
 ## Overview
 
 The idea was to create a biomedical system that measures 3 values: temperature , pulse and oxygen. When it detects unusual values that could put a person in danger, the system warns the user with special components.
