@@ -17,6 +17,7 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
     2) Potentiometer #1
     3) Potentiometer #2
 
+---
 
 ## Other Components
 
