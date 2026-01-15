@@ -11,17 +11,6 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
 ---
 
 ## Sensors & Components
-    1) DS18B20
-    2) Potentiometer #1
-    3) Potentiometer #2
-
----
-
-## Other Components
-
-    1) LED
-    2) Buzzer
-
 
 |Components|
 | :--------------------- | 
