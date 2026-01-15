@@ -27,4 +27,9 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
 
 ---
 
+## 🔗 References
+1. ...
+
+---
+
 ## ⚖️ Licence
