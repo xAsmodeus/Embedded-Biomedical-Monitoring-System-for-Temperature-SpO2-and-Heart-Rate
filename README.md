@@ -1,12 +1,8 @@
 <h1 align="center"> Embedded Biomedical Monitoring System for Health Indicators </h1>
 
-
-
-                                                ** Runned and Tested in Wokwi.com **
-
 --- 
 
-## Overview
+## 🔍 Overview
 
 The idea was to create a biomedical system that measures 3 values: temperature , pulse and oxygen. When it detects unusual values that could put a person in danger, the system warns the user with special components.
 
@@ -25,6 +21,12 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
 
     1) LED
     2) Buzzer
+
+---
+
+## 🧪 Tests
+
+- Run and tested on Wokwi.com
 
 ---
 
